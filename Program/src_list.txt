@@ -1,0 +1,35 @@
+{"time"=>"1507981159", "status"=>"start"}
+
+{"time"=>"1507981159", "status"=>"exit"}
+{"time"=>"1507981171", "status"=>"start"}
+
+{"time"=>"1507981171", "status"=>"exit"}
+{"time"=>"1507981306", "status"=>"start"}
+
+{"time"=>"1507981307", "status"=>"exit"}
+{"time"=>"1507981311", "status"=>"start"}
+
+{"time"=>"1507981312", "status"=>"exit"}
+{"time"=>"1507981315", "status"=>"start"}
+
+{"time"=>"1507981315", "status"=>"exit"}
+{"time"=>"1507981652", "status"=>"start"}
+
+{"time"=>"1507981653", "status"=>"exit"}
+{"time"=>"1507982644", "status"=>"start"}
+
+{"time"=>"1507982644", "status"=>"exit"}
+{"time"=>"1507982742", "status"=>"start"}
+
+{"time"=>"1507982762", "status"=>"exit"}
+{"time"=>"1507983074", "status"=>"start"}
+
+{"time"=>"1507983074", "status"=>"exit"}
+{"time"=>"1507984785", "status"=>"start"}
+
+{"time"=>"1508124392", "status"=>"start"}
+
+{"time"=>"1508124396", "status"=>"exit"}
+{"time"=>"1509444169", "status"=>"start"}
+
+{"time"=>"1509444192", "status"=>"exit"}
